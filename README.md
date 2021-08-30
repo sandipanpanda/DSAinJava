@@ -1,2 +1,3 @@
 # DSAinJava
-Data Structures and Algorithms implemented in Java
+
+Implement popular data structures and algorithms in Java
